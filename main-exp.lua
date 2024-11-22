@@ -6,6 +6,13 @@ end
 
 tes()
 
+
+
+
+
+
+
+
 -- Created function by hasan
 
 function tes3()
